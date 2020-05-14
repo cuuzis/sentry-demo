@@ -21,4 +21,5 @@ export class AppComponent {
   showEmoji(index: number) {
     this.displayedSmiley = this.smileyDetails[index].emoji;
   }
+
 }
